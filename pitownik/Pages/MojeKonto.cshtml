@@ -1,0 +1,59 @@
+﻿@page
+@model pitownik.Pages.MojeKontoModel
+@using Microsoft.AspNetCore.Http;
+@{
+    ViewData["Title"] = "Moje konto";
+    
+    int iloscPIT = Model.licznikPIT;
+    string imie = HttpContext.Session.GetString("imie"), nazwisko = HttpContext.Session.GetString("nazwisko"), email = HttpContext.Session.GetString("email");
+    string acc_id = HttpContext.Session.GetString("id_acc");
+
+}
+<div id="moje_konto">
+<h1>@ViewData["Title"]</h1>
+
+<h3>Dane użytkownika</h3>
+
+<p>Imie: @imie</p>
+<p>Nawisko: @nazwisko</p>
+<p>E-mail: @email</p>
+<p>Ilość rozliczonych pitów: @iloscPIT</p>
+
+<h3>Rozliczone pity</h3>
+
+<table class="table table-hover table-dark">
+  <thead>
+    <tr>
+      <th scope="col">#</th>
+      <th scope="col">Nazwa</th>
+      <th scope="col">Data</th>
+      <th scope="col"></th>
+      <th scope="col"></th>
+      <th scope="col"></th>
+    </tr>
+  </thead>
+  <tbody>
+    @{
+        int i = 1;
+        foreach (var pit in Model.pity_tabela)
+        {     
+            <tr>
+                <th scope="row">@i</th>
+                <td>@pit.nazwa</td>
+                <td>@pit.data</td>
+                <form method="post">
+                    <input type="hidden" name="id" value="@pit.id"/>
+                    <td><button type="submit" asp-page-handler="Pobierz" class="btn btn-outline-light btn-sm">Pobierz</button></td>
+                    <td><button type="submit" asp-page-handler="Edytuj" class="btn btn-outline-light btn-sm">Edytuj</button></td>
+                    <td><button type="submit" asp-page-handler="Usun" class="btn btn-warning btn-sm">Usuń</button></td>
+                </form>
+            </tr>
+            i++;
+        }
+    }
+  </tbody>
+</table>
+
+
+
+</div>

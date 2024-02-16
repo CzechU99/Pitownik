@@ -1,0 +1,574 @@
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\bin\Debug\net7.0\appsettings.json
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\bin\Debug\net7.0\pitownik.staticwebassets.runtime.json
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\bin\Debug\net7.0\pitownik.exe
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\bin\Debug\net7.0\pitownik.deps.json
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\bin\Debug\net7.0\pitownik.runtimeconfig.json
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\bin\Debug\net7.0\pitownik.dll
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\bin\Debug\net7.0\pitownik.pdb
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.AssemblyReference.cache
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\pitownik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfoInputs.cache
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfo.cs
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.CoreCompileInputs.cache
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\pitownik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cache
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cs
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.pitownik.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.build.pitownik.props
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pitownik.props
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pitownik.props
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\scopedcss\bundle\pitownik.styles.css
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\scopedcss\projectbundle\pitownik.bundle.scp.css
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\pitownik.dll
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\refint\pitownik.dll
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\pitownik.pdb
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\pitownik.genruntimeconfig.cache
+C:\Users\komputer\Desktop\PITOWNIK\pitownik\pitownik\obj\Debug\net7.0\ref\pitownik.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\appsettings.Development.json
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\appsettings.json
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\pitownik.staticwebassets.runtime.json
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\pitownik.exe
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\pitownik.deps.json
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\pitownik.runtimeconfig.json
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\pitownik.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\pitownik.pdb
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.AssemblyReference.cache
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.GeneratedMSBuildEditorConfig.editorconfig
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfoInputs.cache
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfo.cs
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.CoreCompileInputs.cache
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.MvcApplicationPartsAssemblyInfo.cache
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cache
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cs
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.pitownik.Microsoft.AspNetCore.StaticWebAssets.props
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.build.pitownik.props
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pitownik.props
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pitownik.props
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\staticwebassets.pack.json
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\staticwebassets.build.json
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\staticwebassets.development.json
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\scopedcss\bundle\pitownik.styles.css
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\scopedcss\projectbundle\pitownik.bundle.scp.css
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\refint\pitownik.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.pdb
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.genruntimeconfig.cache
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\ref\pitownik.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\appsettings.json
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\pitownik.staticwebassets.runtime.json
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\pitownik.exe
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\pitownik.deps.json
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\pitownik.runtimeconfig.json
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\pitownik.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\pitownik.pdb
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.AssemblyReference.cache
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfoInputs.cache
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfo.cs
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.CoreCompileInputs.cache
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cache
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cs
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.pitownik.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.build.pitownik.props
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pitownik.props
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pitownik.props
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\bundle\pitownik.styles.css
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\projectbundle\pitownik.bundle.scp.css
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\refint\pitownik.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.pdb
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.genruntimeconfig.cache
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\ref\pitownik.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\MySql.Data.EntityFramework.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.CopyComplete
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Humanizer.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Azure.Core.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Azure.Identity.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\EntityFramework.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Google.Protobuf.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Humanizer.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Mono.TextTemplating.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\MySql.Data.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\MySql.Data.EntityFramework.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\MySqlConnector.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\System.CodeDom.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\System.Data.SqlClient.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\System.Drawing.Common.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\System.Memory.Data.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\System.Runtime.Caching.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\System.Security.Permissions.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\System.Windows.Extensions.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.CopyComplete
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\appsettings.Development.json
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\appsettings.json
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\pitownik.staticwebassets.runtime.json
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\pitownik.exe
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\pitownik.deps.json
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\pitownik.runtimeconfig.json
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\pitownik.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\pitownik.pdb
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Azure.Core.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Azure.Identity.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\EntityFramework.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Google.Protobuf.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Humanizer.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\MySql.Data.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\MySql.Data.EntityFramework.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\MySqlConnector.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\System.CodeDom.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\System.Data.SqlClient.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.AssemblyReference.cache
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfoInputs.cache
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfo.cs
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.CoreCompileInputs.cache
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.MvcApplicationPartsAssemblyInfo.cache
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cache
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cs
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.pitownik.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.build.pitownik.props
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pitownik.props
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pitownik.props
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.build.json
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.development.json
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\bundle\pitownik.styles.css
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\projectbundle\pitownik.bundle.scp.css
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.CopyComplete
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\refint\pitownik.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.pdb
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\pitownik.genruntimeconfig.cache
+D:\Pulpit\pitownik_git\Pitownik\pitownik\obj\Debug\net7.0\ref\pitownik.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\appsettings.json
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\pitownik.staticwebassets.runtime.json
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\pitownik.exe
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\pitownik.deps.json
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\pitownik.runtimeconfig.json
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\pitownik.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\pitownik.pdb
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\MySql.Data.EntityFramework.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.AssemblyReference.cache
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfoInputs.cache
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfo.cs
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cache
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cs
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.pitownik.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.build.pitownik.props
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pitownik.props
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pitownik.props
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\bundle\pitownik.styles.css
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\projectbundle\pitownik.bundle.scp.css
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.CopyComplete
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\refint\pitownik.dll
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.pdb
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\pitownik.genruntimeconfig.cache
+C:\Users\Rafał\Desktop\studia\Pitownik\pitownik\obj\Debug\net7.0\ref\pitownik.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Collections.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Control.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Core.JavaScript.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Core.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.InterfaceGenerator.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.JQuery.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.JavaScript.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Main.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Sitelets.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Web.dll
+C:\Users\komputer\Desktop\PITOWNIK_GIT\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.JsPDF.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\FSharp.Core.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\WebSharper.Collections.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\WebSharper.Control.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\WebSharper.Core.JavaScript.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\WebSharper.Core.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\WebSharper.InterfaceGenerator.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\WebSharper.JQuery.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\WebSharper.JavaScript.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\WebSharper.Main.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\WebSharper.Sitelets.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\WebSharper.Web.dll
+G:\STUDIA\PROGRAMOWANIE IV\pitownik\pitownik\bin\Debug\net7.0\WebSharper.JsPDF.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\refint\pitownik.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.pdb
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\appsettings.json
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\pitownik.staticwebassets.runtime.json
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\pitownik.exe
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\pitownik.deps.json
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\pitownik.runtimeconfig.json
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\pitownik.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\pitownik.pdb
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\EntityFramework.SqlServer.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\EntityFramework.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\FSharp.Core.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Google.Protobuf.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\MySql.Data.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\MySql.Data.EntityFramework.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\MySqlConnector.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\System.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Collections.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Control.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Core.JavaScript.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Core.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.InterfaceGenerator.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.JQuery.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.JavaScript.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Main.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Sitelets.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Web.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.JsPDF.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x64\native\sni.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win-x86\native\sni.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.AssemblyReference.cache
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfoInputs.cache
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.AssemblyInfo.cs
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.CoreCompileInputs.cache
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cache
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.RazorAssemblyInfo.cs
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.pitownik.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.build.pitownik.props
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.pitownik.props
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.pitownik.props
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\bundle\pitownik.styles.css
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\scopedcss\projectbundle\pitownik.bundle.scp.css
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.csproj.CopyComplete
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\pitownik.genruntimeconfig.cache
+C:\Users\Rafał\Desktop\studia\programowanie\Pitownik\pitownik\obj\Debug\net7.0\ref\pitownik.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\FSharp.Core.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Collections.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Control.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Core.JavaScript.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Core.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.InterfaceGenerator.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.JQuery.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.JavaScript.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Main.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Sitelets.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.Web.dll
+D:\Pulpit\pitownik_git\Pitownik\pitownik\bin\Debug\net7.0\WebSharper.JsPDF.dll

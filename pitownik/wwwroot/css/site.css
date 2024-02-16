@@ -1,0 +1,331 @@
+body {
+    background-color: #2a2a2e;
+}
+
+
+
+
+#name {
+    margin: auto;
+    margin-top: 70px;
+    text-align: center;
+    width: 100%;
+}
+
+    #name img {
+        width: 95%;
+        max-width: 700px;
+        margin: 0 auto;
+    }
+
+#formularz_log {
+    width: 300px;
+    height: 500px;
+    box-shadow: 0px 2px 20px black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid black;
+    display: flex;
+    float: left;
+}
+
+#formularze{
+    width: 640px;
+    min-height: 650px;
+    margin: auto;
+}
+
+#formularz_rej {
+    width: 300px;
+    height: 500px;
+    box-shadow: 0px 2px 20px black;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: auto;
+    margin-top: 50px;
+    border: 1px solid black;
+    display: flex;
+    float: left;
+    margin-left: 40px;
+}
+
+#logowanie{
+    box-sizing: border-box;
+    width: 300px;
+    float: left;
+    height: 500px;
+    background-color: #7A7D80;
+    border-radius: 10px;
+}
+
+#rejestracja {
+    box-sizing: border-box;
+    width: 100%;
+    height: 500px;
+    background-color: #7A7D80;
+    border-radius: 10px;
+}
+
+#log{
+    width: 100%;
+    height: 50px;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#reg {
+    width: 100%;
+    height: 50px;
+    font-weight: bold;
+    font-size: 28px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#log_panel{
+    width: 100%;
+    height: 200px;
+    margin-top: 30px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+#reg_panel {
+    width: 100%;
+    height: 200px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.inf{
+    text-align: left;
+    width: 270px;
+    font-weight: bold;
+    font-size: 18px;
+    display: table;
+    padding-left: 25px;
+
+}
+
+.luz{
+    margin-top: 10px;
+}
+
+.inp{
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 14px;
+    width: 250px;
+    border: 0px;
+    padding-left: 10px;
+}
+
+.inp_log {
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 5px;
+    font-size: 14px;
+    width: 250px;
+    border: 0px;
+    padding-left: 10px;
+}
+
+.inp:active{
+    border: 0px;
+}
+
+.inp_log:active {
+    border: 0px;
+}
+
+.gora{
+    margin-top: 25px;
+}
+
+.act {
+    margin-top: 20px;
+    border: 0px;
+    font-weight: bold;
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: #ffc107;
+    transition: 0.2s;
+}
+
+.act_rej {
+    margin-top: 20px;
+    border: 0px;
+    font-weight: bold;
+    height: 35px;
+    width: 150px;
+    border-radius: 10px;
+    background-color: #ffc107;
+    transition: 0.2s;
+}
+
+.act:hover {
+    transition: 0.2s;
+    transform: scale(1.05);
+}
+
+.act_rej:hover {
+    transition: 0.2s;
+    transform: scale(1.05);
+}
+
+.bg-dark {
+    background-color: #ffc107 !important;
+}
+
+.nav-link  {
+    color: black !important;
+}
+
+    .nav-link:hover {
+        color: #343a40 !important;
+    }
+
+.navbar-toggler-icon {
+     color:black !important;
+}
+
+.navbar .navbar-brand {
+    font-family: 'Lobster', cursive;
+    color: black !important;
+}
+
+.error{
+    color: red;
+    font-size: 16px;
+    height: 20px;
+    letter-spacing: 2px;
+    margin-top: 50px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.error_rej {
+    color: greenyellow;
+    font-size: 16px;
+    height: 20px;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-weight: bold;
+}
+
+#moje_konto {
+    color: white;
+}
+
+#moje_konto p {
+    color: #eee;
+    margin-bottom: 2px;
+}
+
+#moje_konto h3 {
+    margin-top: 30px;
+}
+
+#moje_konto table td {
+    vertical-align: middle;
+}
+
+#moje_konto table button {
+    border-radius: 30px;
+}
+
+.err_reg{
+    color: white;
+    font-size: 10px;
+    font-weight: normal;
+    text-transform: uppercase;
+    display: table-cell;
+    vertical-align: middle;
+}
+
+@media only screen and (max-width: 767px){
+    #formularze{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+    }
+    #formularz_log{
+        margin: auto;
+        margin-top: 30px;
+    }
+    #formularz_rej{
+        margin: auto;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    }
+}
+
+.hovertext {
+    position: relative;
+    font-size: 11px;
+}
+
+.hovertext2 {
+    position: relative;
+    font-size: 11px;
+}
+
+.hovertext:before {
+    content: attr(data-hover);
+    visibility: hidden;
+    opacity: 0;
+    width: 252px;
+    background-color: #2a2a2e;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 0;
+    transition: opacity 1s ease-in-out;
+    position: absolute;
+    z-index: 1;
+    left: -2px;
+    top: 110%;
+    margin-top: 2px;
+    padding-top: 8px;
+    height: 32px;
+}
+
+.hovertext:hover:before {
+    opacity: 1;
+    visibility: visible;
+}
+
+.hovertext2:before {
+    content: attr(data-hover);
+    visibility: hidden;
+    opacity: 0;
+    width: 252px;
+    background-color: #2a2a2e;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 0;
+    transition: opacity 1s ease-in-out;
+    position: absolute;
+    z-index: 1;
+    left: -2px;
+    top: 110%;
+    margin-top: 2px;
+    height: 42px;
+}
+
+.hovertext2:hover:before {
+    opacity: 1;
+    visibility: visible;
+}

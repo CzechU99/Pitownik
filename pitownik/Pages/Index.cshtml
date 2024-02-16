@@ -1,0 +1,79 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Logowanie";
+}
+
+
+<div id="wrapper">
+
+    <div id="name">
+        <img src="~/logo.png" />
+    </div>
+
+        <div id="formularze">
+
+        <div id="formularz_log">
+
+            <div id="logowanie">
+
+                <div id="log">
+                    LOGOWANIE
+                </div>
+
+                <p class="error">@Model.msg</p>
+
+                <div id="log_panel">
+
+                    <form method="post" asp-page-handler="Login">
+                        <span class="inf luz gora">E-MAIL:</span>
+                        <input type="email" placeholder="Wpisz e-mail..." class="inp_log" asp-for="@Model.users.email" value=""/><br>
+                        <span class="inf luz">HASŁO:</span>
+                        <input type="password" placeholder="Wpisz haslo..." class="inp_log" asp-for="@Model.users.haslo" value=""/><br />
+                        <input type="submit" class="act" value="ZALOGUJ" />
+                        
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+        <div id="formularz_rej">
+
+            <div id="rejestracja">
+
+                <div id="reg">
+                    REJESTRACJA
+                </div>
+
+                <p class="error_rej">@Model.msg7</p>
+
+                <div id="reg_panel">
+                    
+                    <form method="post" asp-page-handler="Register">
+                        <span class="inf luz"><span class="hovertext" data-hover="Minimum trzy znaki oraz same litery!">&#8505;</span> IMIĘ: <span class="err_reg">@Model.msg4</span></span>
+                        <input type="text" placeholder="Wpisz imię..." class="inp" name="imie" asp-for="@Model.users.imie" /><br>
+                        <span class="inf luz"><span class="hovertext" data-hover="Minimum trzy znaki oraz same litery!">&#8505;</span> NAZWISKO: <span class="err_reg">@Model.msg5</span></span>
+                        <input type="text" placeholder="Wpisz nazwisko..." class="inp" name="nazwisko" asp-for="@Model.users.nazwisko" /><br />
+                        <span class="inf luz"><span class="hovertext" data-hover="Musi zawierać małpę!">&#8505;</span> E-MAIL: <span class="err_reg">@Model.msg6</span></span>
+                        <input type="email" placeholder="Wpisz email..." class="inp" name="email" asp-for="@Model.users.email" /><br />
+                        <span class="inf luz"><span class="hovertext2" data-hover="Minimum 12 znaków, jedna duża i mała litera, znak specjalny oraz cyfra!">&#8505;</span> HASŁO: <span class="err_reg">@Model.msg3</span></span>
+                        <input type="password" placeholder="Wpisz haslo..." class="inp" name="pass" asp-for="@Model.users.haslo" /><br />
+                        <span class="inf luz"><span class="hovertext" data-hover="Hasła muszą być identyczne!">&#8505;</span> POWTÓRZ HASŁO:</span>
+                        <input type="password" placeholder="Wpisz haslo..." class="inp" name="pass2" /><br />
+                        <input type="submit" class="act_rej" value="ZAREJESTRUJ" />
+                    </form>
+
+                </div>
+
+            </div>
+
+        </div>
+
+     </div>
+
+</div>
+
+    
